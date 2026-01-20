@@ -169,4 +169,3 @@ resource "azurerm_linux_function_app" "auth_function" {
     "FUNCTIONS_WORKER_RUNTIME" = "dotnet-isolated"
   }
 }
-
